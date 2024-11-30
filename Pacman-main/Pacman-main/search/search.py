@@ -90,8 +90,7 @@ def depthFirstSearch(problem):
     util.raiseNotDefined()
 
 def breadthFirstSearch(problem):
-    """Search the shallowest nodes in the search tree first."""
-    "*** YOUR CODE HERE ***"
+
     #util.raiseNotDefined()
     """ Search the shallowest nodes in the search tree first. """
     currPath = []           # The path that is popped from the frontier in each loop
